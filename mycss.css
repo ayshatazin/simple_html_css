@@ -1,0 +1,97 @@
+header{
+    background-color: cadetblue;
+}
+div.padding{
+    background-color: darkseagreen;
+    padding: 20px;
+}
+div.sign-up{
+    background-color: #badca6;
+    height: 30px;
+    padding-top: 10px;
+    padding-left: 400px;
+}
+div.delicious-recipe{
+    height: 35px;
+    font-size: 28px;
+    background-color: #5f9b5e;
+    padding-left: 400px;
+    font-family: JasmineUPC;
+    color: #400025;
+    font-weight: bold;
+}
+#delicious{
+    text-decoration: underline;
+}
+nav {
+    height: 35px;
+    width: 100%;
+    background-color: #70de33;
+    font-size: 20px;
+}
+a:link{
+    color: rosybrown;
+}
+a:visited{
+    color: red;
+}
+main{
+    height: 550px;
+    width: 100%;
+}
+div > h4{
+    margin-left: 10px;
+}
+div.blog{
+    height: 150px;
+    width: 100%;
+    font-family: Arial;
+    font-size: 15px;
+    background-color: #269c3a;
+}
+div.recipe{
+    background-color: #489c54;
+}
+div.ingredirnts{
+    height: 500px;
+    width: 20%;
+    background-color: #a2c077;
+    float:left;
+}
+ul.unordered-list{
+    list-style-type: none;
+}
+ul > li:before{
+   content: '\1F958';
+    margin-left: -20px;
+    margin-right: 10px;
+}
+ol{
+    margin-left: 20px;
+}
+article{
+    height: 500px;
+    width: 80%;
+    background-color: #8fc07c;
+    float:left;
+}
+article > h4{
+    margin-left: 10px;
+}
+#italic {
+    font-style: normal;
+}
+.special{
+    color: red;
+}
+div.img{
+    height: 275px;
+    width: 100%;
+}
+footer{
+    height: 90px;
+    width: 100%;
+    background-color: #5f9b5e;
+    text-align: center;
+    padding-top: 140px;
+}
